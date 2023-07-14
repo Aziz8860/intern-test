@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InternTest</string>
+
+    <string name="retry">Try again</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user_name">Selected User Name</string>
+</resources>
